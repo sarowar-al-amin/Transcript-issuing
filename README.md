@@ -30,6 +30,7 @@ Go to the [Play with Docker](https://labs.play-with-docker.com/) and (if necessa
 
 ### Installing s2i
 Go to the (https://computingforgeeks.com/install-source-to-image-toolkit-on-linux/)
+Or download source_to_image(s2i) from github and then extact and copy it to a runnable path  
 
 ### Local Machine
  To do that:
